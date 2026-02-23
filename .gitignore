@@ -1,9 +1,9 @@
 *.csv
-*.xlcs
+*.xlsx
 *.rda
 *.xlsm
 *xls
-
+*.pdf
 
 
 *.Rhistory
