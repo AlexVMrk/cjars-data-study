@@ -1,8 +1,5 @@
 ## Two-Year window Exploration Script
-## Alexander Markel
-## AM97354@wcupa.edu
 ## 3/31/2025
-## GITHUB VERSION
 
 
 # load libraries ----------------------------------------------------------

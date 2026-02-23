@@ -1,8 +1,5 @@
 ## Data Processing Script
-## Alexander Markel 
-## AM97354@wcupa.edu
 ## 3/20/2025
-## GITHUB VERSION
 
 # load libraries ----------------------------------------------------------
 library(tidyverse)  #wrangling 

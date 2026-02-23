@@ -1,8 +1,4 @@
-
-## Alexander Markel
-## AM97354@wcupa.edu
 ## 4/17/2025
-## GITHUB VERSION
 
 ## TO BE USED IN CONJUCTION WITH `Table Builder.R` script
 

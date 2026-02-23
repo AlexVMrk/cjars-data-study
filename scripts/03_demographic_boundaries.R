@@ -1,9 +1,5 @@
 ## Demographic Boundary Exploration Script
-## Alexander Markel
-## AM97354@wcupa.edu
 ## 3/27/2025
-## GITHUB VERSION
-
 
 # load data ---------------------------------------------------------------
 
