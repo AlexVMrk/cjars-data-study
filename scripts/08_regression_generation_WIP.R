@@ -1,3 +1,7 @@
+## NOTE ##
+
+# THIS SCRIPT DEPENDS ON 07_generate_regression_data.r
+# which is where df_wider comes from
 urban_fips = df_wider |> 
 	filter(rural == FALSE) |> 
 	select(fips) |> 
