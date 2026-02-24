@@ -16,7 +16,7 @@ library(tidyr)      # pivot wider
 
 # Move working directory up one level.
 setwd("../")
-#load unfiltered data
+#load data
 load('data/master.rda')
 
 
