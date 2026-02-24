@@ -2,7 +2,7 @@
 ## 3/31/2025
 
 
-# TODO: Implement rural vs urban in both functions complete
+# TODO: Implement rural vs urban in both functions. COMPLETE
 # TODO: Metaprogram the table generation
 
 # load libraries ----------------------------------------------------------
@@ -19,7 +19,6 @@ setwd("../")
 #load unfiltered data
 load('data/master.rda')
 
-load("D:/git/JusticeOutcomes/data/master.rda")
 
 
 # Define Functions --------------------------------------------------------
